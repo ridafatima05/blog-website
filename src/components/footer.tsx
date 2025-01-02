@@ -22,7 +22,7 @@ export default function Footer() {
           <div>
             <h4 className="text-xl font-semibold mb-4">Contact Us</h4>
             <p className="text-gray-400">123 Blog Street&#44; City&#44; Country</p>
-            <p className="text-gray-400">Email: info@blogstore.com</p>
+            <p className="text-gray-400">Email: info@blogflow.com</p>
             <p className="text-gray-400">Phone: +1 234 567 890</p>
           </div>
           <div>
