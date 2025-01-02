@@ -18,8 +18,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "BlogStore",
-  description: "Created By Yusra Saleem",
+  title: "BlogFlow",
+  description: "Created By Rida Fatima",
 };
 
 export default function RootLayout({
