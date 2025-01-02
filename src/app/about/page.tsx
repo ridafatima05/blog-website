@@ -34,7 +34,7 @@ export default function AboutPage() {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5 }}
         >
-          About BlogStore
+          About BlogFlow
         </motion.h1>
 
         <motion.div 
